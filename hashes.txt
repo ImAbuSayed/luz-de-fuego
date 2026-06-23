@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Luz de fuego
+
+This log tracks the cryptographic history and versioning for the song **Luz de fuego** (luz-de-fuego).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T14:20:30.235611 | `v1` | `2f1a928134d21f38cd4d038a095d634d00e8c914cafac92578a3e0aeb9c87aed` | `aa032ed4f950258e56dbd7f8154f6c7f368df5cc647d7f80673a7915293528e2` | `2026-06-23_luz-de-fuego-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
