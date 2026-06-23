@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luz-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Luz de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-fuego/) |
+| **Get License** | [Get License For Luz de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa luz de fuego iluminando tu silueta
+> Mami, tú me llevas a otro mundo, a otro planeta
+> Bailando en la disco, el calor ya se dispara
+> I wanna feel your body right here, cara a cara
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
